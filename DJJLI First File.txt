@@ -1,10 +1,7 @@
 DJJLI first file
 123
-<<<<<<< HEAD
 9897
 2222
 3422
-=======
 456
 78
->>>>>>> refs/remotes/origin/Feature
